@@ -26,6 +26,7 @@ const css = `
         height: 65vh;
         text-align: center;
         padding-top: 4rem;
+        padding-bottom: 8rem;
     }
 </style>`
 
