@@ -15,7 +15,10 @@ const css = `
     }
 
     #root {
-        box - sizing: border-box;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        box-sizing: border-box;
         font-family: 'Press Start 2P', cursive;
         background-color: #3B3B98;
         width: 40vw;
