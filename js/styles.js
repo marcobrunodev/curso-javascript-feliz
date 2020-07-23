@@ -1,5 +1,10 @@
 const css = `
 <style>
+    :root {
+        --line-height: 10px;
+        --happy-color: #EAB543;
+    }
+
     * {
         margin: 0;
         padding: 0;
